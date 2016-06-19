@@ -1,7 +1,6 @@
 package sampling
 
 import (
-    "fmt"
     "math/rand"
     "time"
 )
